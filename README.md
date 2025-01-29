@@ -11,4 +11,7 @@ Make sure to activate env and install deps
 To fix bug with cannot find lib:
 sudo ln -s /opt/ros/noetic/lib/aarch64-linux-gnu/* /opt/ros/noetic/lib/
 
-
+To load env variables run
+````
+source ./env_backup.sh
+````
