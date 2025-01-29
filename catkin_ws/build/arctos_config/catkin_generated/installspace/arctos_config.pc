@@ -1,0 +1,8 @@
+prefix=/home/yuheng/Desktop/ROS/catkin_ws/install
+
+Name: arctos_config
+Description: Description of arctos_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
