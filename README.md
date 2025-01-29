@@ -1,4 +1,6 @@
 # REDesign Robot Arm Feeder
+## OS To Use
+Ubuntu 20.04, can run on a VM
 ## Install ROS1
 ````
 wget -c https://raw.githubusercontent.com/qboticslabs/ros_install_noetic/master/ros_install_noetic.sh && chmod +x ./ros_install_noetic.sh && ./ros_install_noetic.sh
